@@ -1,0 +1,6 @@
+*/*.zip
+*/tiny-imagenet-200/*
+*/.ipynb_checkpoints/*
+*/__pycache__/*
+*/runs/*
+*/data/*
