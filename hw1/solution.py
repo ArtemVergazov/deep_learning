@@ -105,7 +105,7 @@ def get_model():
     model = resnet18(pretrained=False, progress=True, num_classes=200)
     model.fc = nn.Sequential(
         nn.Dropout(.5),
-        nn.Linear(512, 200)
+        nn.Linear(512, 200),
     )
     return model.to(device)
 
