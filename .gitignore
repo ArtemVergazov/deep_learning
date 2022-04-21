@@ -6,3 +6,4 @@
 */data/*
 *.gz
 /hw2/datasets/*
+/hw2/semantic_segmentation/logs/*
