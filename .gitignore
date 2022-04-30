@@ -5,5 +5,7 @@
 */runs/*
 */data/*
 *.gz
-/hw2/datasets/*
-/hw2/semantic_segmentation/logs/*
+hw2/datasets/*
+hw2/semantic_segmentation/logs/*
+hw3/datasets/*
+hw3/part2_gans/logs/*
