@@ -1,9 +1,9 @@
-*/*.zip
-*/tiny-imagenet-200/*
-*/.ipynb_checkpoints/*
-*/__pycache__/*
-*/runs/*
-*/data/*
+*.zip
+tiny-imagenet-200
+.ipynb_checkpoints
+__pycache__
+runs
+data
 *.gz
 hw2/datasets/*
 hw2/semantic_segmentation/logs/*
